@@ -1,105 +1,105 @@
 year,category,value,unit,figure_type
 2025,Annualized CAPEX,0.0,billion_USD,stacked_bar
-2026,Annualized CAPEX,0.045539171999999996,billion_USD,stacked_bar
-2027,Annualized CAPEX,0.04618510399999999,billion_USD,stacked_bar
-2028,Annualized CAPEX,0.048483217999999995,billion_USD,stacked_bar
-2029,Annualized CAPEX,0.11087464639999997,billion_USD,stacked_bar
+2026,Annualized CAPEX,0.044971163999999994,billion_USD,stacked_bar
+2027,Annualized CAPEX,0.046236945999999994,billion_USD,stacked_bar
+2028,Annualized CAPEX,0.04859479099999999,billion_USD,stacked_bar
+2029,Annualized CAPEX,0.1102001369,billion_USD,stacked_bar
 2030,Annualized CAPEX,0.10938082399999999,billion_USD,stacked_bar
 2031,Annualized CAPEX,0.11899905254999998,billion_USD,stacked_bar
 2032,Annualized CAPEX,0.1578860346,billion_USD,stacked_bar
 2033,Annualized CAPEX,0.15536590964999997,billion_USD,stacked_bar
-2034,Annualized CAPEX,0.1576481732,billion_USD,stacked_bar
-2035,Annualized CAPEX,0.16097387774999997,billion_USD,stacked_bar
-2036,Annualized CAPEX,0.16156330679999997,billion_USD,stacked_bar
-2037,Annualized CAPEX,0.16039256309999997,billion_USD,stacked_bar
-2038,Annualized CAPEX,0.22066144799999998,billion_USD,stacked_bar
-2039,Annualized CAPEX,0.2294343058,billion_USD,stacked_bar
-2040,Annualized CAPEX,0.22690164699999996,billion_USD,stacked_bar
-2041,Annualized CAPEX,0.22468776819999997,billion_USD,stacked_bar
-2042,Annualized CAPEX,0.22397126989999996,billion_USD,stacked_bar
-2043,Annualized CAPEX,0.22254834384999997,billion_USD,stacked_bar
-2044,Annualized CAPEX,0.22162286755,billion_USD,stacked_bar
-2045,Annualized CAPEX,0.21963815212499996,billion_USD,stacked_bar
-2046,Annualized CAPEX,0.21844515419999996,billion_USD,stacked_bar
-2047,Annualized CAPEX,0.21764727039999998,billion_USD,stacked_bar
-2048,Annualized CAPEX,0.21637054844999995,billion_USD,stacked_bar
+2034,Annualized CAPEX,0.1577109632,billion_USD,stacked_bar
+2035,Annualized CAPEX,0.16155275324999996,billion_USD,stacked_bar
+2036,Annualized CAPEX,0.15996840054999997,billion_USD,stacked_bar
+2037,Annualized CAPEX,0.160604579975,billion_USD,stacked_bar
+2038,Annualized CAPEX,0.21119857639999998,billion_USD,stacked_bar
+2039,Annualized CAPEX,0.229007716175,billion_USD,stacked_bar
+2040,Annualized CAPEX,0.22684610199999997,billion_USD,stacked_bar
+2041,Annualized CAPEX,0.22413533694999999,billion_USD,stacked_bar
+2042,Annualized CAPEX,0.22390928489999998,billion_USD,stacked_bar
+2043,Annualized CAPEX,0.22225411634999998,billion_USD,stacked_bar
+2044,Annualized CAPEX,0.22216382754999997,billion_USD,stacked_bar
+2045,Annualized CAPEX,0.21987743837499998,billion_USD,stacked_bar
+2046,Annualized CAPEX,0.21958744919999998,billion_USD,stacked_bar
+2047,Annualized CAPEX,0.21723128664999997,billion_USD,stacked_bar
+2048,Annualized CAPEX,0.21631701595,billion_USD,stacked_bar
 2049,Annualized CAPEX,0.21597400544999998,billion_USD,stacked_bar
 2050,Annualized CAPEX,0.21594173299999997,billion_USD,stacked_bar
 2025,OPEX,0.0,billion_USD,stacked_bar
-2026,OPEX,0.04427177999999999,billion_USD,stacked_bar
-2027,OPEX,0.04496407999999999,billion_USD,stacked_bar
-2028,OPEX,0.04730856199999999,billion_USD,stacked_bar
-2029,OPEX,0.10974635839999998,billion_USD,stacked_bar
+2026,OPEX,0.043703772,billion_USD,stacked_bar
+2027,OPEX,0.04501592199999999,billion_USD,stacked_bar
+2028,OPEX,0.047420134999999995,billion_USD,stacked_bar
+2029,OPEX,0.10907184889999999,billion_USD,stacked_bar
 2030,OPEX,0.10829890399999999,billion_USD,stacked_bar
 2031,OPEX,0.11793258854999998,billion_USD,stacked_bar
 2032,OPEX,0.15683502659999998,billion_USD,stacked_bar
 2033,OPEX,0.15433035764999997,billion_USD,stacked_bar
-2034,OPEX,0.1566280772,billion_USD,stacked_bar
-2035,OPEX,0.15996923774999997,billion_USD,stacked_bar
-2036,OPEX,0.16057412279999997,billion_USD,stacked_bar
-2037,OPEX,0.1594188351,billion_USD,stacked_bar
-2038,OPEX,0.20462063159999996,billion_USD,stacked_bar
-2039,OPEX,0.21119512496249998,billion_USD,stacked_bar
-2040,OPEX,0.20897785912499997,billion_USD,stacked_bar
-2041,OPEX,0.20707937328749995,billion_USD,stacked_bar
-2042,OPEX,0.20667826794999997,billion_USD,stacked_bar
-2043,OPEX,0.2055707348625,billion_USD,stacked_bar
-2044,OPEX,0.20496065152499998,billion_USD,stacked_bar
-2045,OPEX,0.20329132906249997,billion_USD,stacked_bar
-2046,OPEX,0.20241372409999997,billion_USD,stacked_bar
-2047,OPEX,0.20193123326249995,billion_USD,stacked_bar
-2048,OPEX,0.20050801137499996,billion_USD,stacked_bar
-2049,OPEX,0.19974163326249997,billion_USD,stacked_bar
+2034,OPEX,0.1566908672,billion_USD,stacked_bar
+2035,OPEX,0.16054811324999996,billion_USD,stacked_bar
+2036,OPEX,0.15897921654999997,billion_USD,stacked_bar
+2037,OPEX,0.159630851975,billion_USD,stacked_bar
+2038,OPEX,0.19767151739999997,billion_USD,stacked_bar
+2039,OPEX,0.21076853533749998,billion_USD,stacked_bar
+2040,OPEX,0.20892231412499998,billion_USD,stacked_bar
+2041,OPEX,0.20652694203749997,billion_USD,stacked_bar
+2042,OPEX,0.20661628294999995,billion_USD,stacked_bar
+2043,OPEX,0.20527650736249997,billion_USD,stacked_bar
+2044,OPEX,0.205501611525,billion_USD,stacked_bar
+2045,OPEX,0.20353061531249997,billion_USD,stacked_bar
+2046,OPEX,0.20355601909999996,billion_USD,stacked_bar
+2047,OPEX,0.2015152495125,billion_USD,stacked_bar
+2048,OPEX,0.20045447887499998,billion_USD,stacked_bar
+2049,OPEX,0.1997416332625,billion_USD,stacked_bar
 2050,OPEX,0.19917229499999997,billion_USD,stacked_bar
 2025,New Energy,0.0,billion_USD,stacked_bar
-2026,New Energy,3.261418851510664,billion_USD,stacked_bar
-2027,New Energy,3.319563719480718,billion_USD,stacked_bar
-2028,New Energy,3.531558877136834,billion_USD,stacked_bar
-2029,New Energy,7.22490058231797,billion_USD,stacked_bar
-2030,New Energy,7.387413380803183,billion_USD,stacked_bar
-2031,New Energy,8.400847611586025,billion_USD,stacked_bar
-2032,New Energy,11.172656124699,billion_USD,stacked_bar
-2033,New Energy,11.305523623574487,billion_USD,stacked_bar
-2034,New Energy,11.847923345370253,billion_USD,stacked_bar
-2035,New Energy,12.489662624038555,billion_USD,stacked_bar
-2036,New Energy,12.863653689072176,billion_USD,stacked_bar
-2037,New Energy,13.23208326363071,billion_USD,stacked_bar
-2038,New Energy,15.025341636952321,billion_USD,stacked_bar
-2039,New Energy,15.810360976314382,billion_USD,stacked_bar
-2040,New Energy,16.104865827331956,billion_USD,stacked_bar
-2041,New Energy,16.438944261998657,billion_USD,stacked_bar
-2042,New Energy,16.92598396673241,billion_USD,stacked_bar
-2043,New Energy,17.393536029320117,billion_USD,stacked_bar
-2044,New Energy,17.985640133343185,billion_USD,stacked_bar
-2045,New Energy,18.384649878600964,billion_USD,stacked_bar
-2046,New Energy,18.85715961758317,billion_USD,stacked_bar
-2047,New Energy,19.4708242361667,billion_USD,stacked_bar
-2048,New Energy,20.02454734246582,billion_USD,stacked_bar
-2049,New Energy,20.488274133920708,billion_USD,stacked_bar
-2050,New Energy,21.03399869605114,billion_USD,stacked_bar
+2026,New Energy,3.3648881805624065,billion_USD,stacked_bar
+2027,New Energy,3.580645933017927,billion_USD,stacked_bar
+2028,New Energy,3.934778110411145,billion_USD,stacked_bar
+2029,New Energy,7.723003432110977,billion_USD,stacked_bar
+2030,New Energy,8.144992942318183,billion_USD,stacked_bar
+2031,New Energy,9.316710610304598,billion_USD,stacked_bar
+2032,New Energy,12.08794859733987,billion_USD,stacked_bar
+2033,New Energy,12.227016904646486,billion_USD,stacked_bar
+2034,New Energy,12.8543018279021,billion_USD,stacked_bar
+2035,New Energy,13.64186473652002,billion_USD,stacked_bar
+2036,New Energy,13.910400512861115,billion_USD,stacked_bar
+2037,New Energy,14.43703828706609,billion_USD,stacked_bar
+2038,New Energy,16.112037651924606,billion_USD,stacked_bar
+2039,New Energy,17.058613812514658,billion_USD,stacked_bar
+2040,New Energy,17.41069000344135,billion_USD,stacked_bar
+2041,New Energy,17.75928231088759,billion_USD,stacked_bar
+2042,New Energy,18.368344360198044,billion_USD,stacked_bar
+2043,New Energy,18.88021852847432,billion_USD,stacked_bar
+2044,New Energy,19.611328161890434,billion_USD,stacked_bar
+2045,New Energy,20.04587420889576,billion_USD,stacked_bar
+2046,New Energy,20.696233668133452,billion_USD,stacked_bar
+2047,New Energy,21.23898159116418,billion_USD,stacked_bar
+2048,New Energy,21.852482429441725,billion_USD,stacked_bar
+2049,New Energy,22.353287524262207,billion_USD,stacked_bar
+2050,New Energy,22.93106341404189,billion_USD,stacked_bar
 2025,Fuel Savings,-0.0,billion_USD,stacked_bar
-2026,Fuel Savings,-0.4431802215051521,billion_USD,stacked_bar
-2027,Fuel Savings,-0.4645061209970241,billion_USD,stacked_bar
-2028,Fuel Savings,-0.5023459221467047,billion_USD,stacked_bar
-2029,Fuel Savings,-1.241705308114233,billion_USD,stacked_bar
+2026,Fuel Savings,-0.4385869508453643,billion_USD,stacked_bar
+2027,Fuel Savings,-0.46494357534557534,billion_USD,stacked_bar
+2028,Fuel Savings,-0.503330194430945,billion_USD,stacked_bar
+2029,Fuel Savings,-1.2354715836473782,billion_USD,stacked_bar
 2030,Fuel Savings,-1.2806387451352919,billion_USD,stacked_bar
 2031,Fuel Savings,-1.393786312388065,billion_USD,stacked_bar
 2032,Fuel Savings,-1.8782151889965801,billion_USD,stacked_bar
 2033,Fuel Savings,-1.8802056062824883,billion_USD,stacked_bar
-2034,Fuel Savings,-1.9299400470293222,billion_USD,stacked_bar
-2035,Fuel Savings,-1.9916833488784438,billion_USD,stacked_bar
-2036,Fuel Savings,-2.0272189568776695,billion_USD,stacked_bar
-2037,Fuel Savings,-2.0460928092130657,billion_USD,stacked_bar
-2038,Fuel Savings,-2.6938422455068283,billion_USD,stacked_bar
-2039,Fuel Savings,-2.83086554100347,billion_USD,stacked_bar
-2040,Fuel Savings,-2.8509570612314734,billion_USD,stacked_bar
-2041,Fuel Savings,-2.875513363732366,billion_USD,stacked_bar
-2042,Fuel Savings,-2.91834483185479,billion_USD,stacked_bar
-2043,Fuel Savings,-2.954885015865416,billion_USD,stacked_bar
-2044,Fuel Savings,-2.9991370965292146,billion_USD,stacked_bar
-2045,Fuel Savings,-3.032521491251502,billion_USD,stacked_bar
-2046,Fuel Savings,-3.077554908813056,billion_USD,stacked_bar
-2047,Fuel Savings,-3.13000595328707,billion_USD,stacked_bar
-2048,Fuel Savings,-3.17996656216102,billion_USD,stacked_bar
+2034,Fuel Savings,-1.9305645900273989,billion_USD,stacked_bar
+2035,Fuel Savings,-1.9974063879736932,billion_USD,stacked_bar
+2036,Fuel Savings,-2.0111355934628286,billion_USD,stacked_bar
+2037,Fuel Savings,-2.048274464187319,billion_USD,stacked_bar
+2038,Fuel Savings,-2.5954291694382423,billion_USD,stacked_bar
+2039,Fuel Savings,-2.8262891391737583,billion_USD,stacked_bar
+2040,Fuel Savings,-2.8503482272851706,billion_USD,stacked_bar
+2041,Fuel Savings,-2.869323551944951,billion_USD,stacked_bar
+2042,Fuel Savings,-2.9176345255841034,billion_USD,stacked_bar
+2043,Fuel Savings,-2.9514349568363647,billion_USD,stacked_bar
+2044,Fuel Savings,-3.005631325289781,billion_USD,stacked_bar
+2045,Fuel Savings,-3.0354641886586338,billion_USD,stacked_bar
+2046,Fuel Savings,-3.091953831643125,billion_USD,stacked_bar
+2047,Fuel Savings,-3.1246279200947256,billion_USD,stacked_bar
+2048,Fuel Savings,-3.179256255890333,billion_USD,stacked_bar
 2049,Fuel Savings,-3.2424269731879427,billion_USD,stacked_bar
 2050,Fuel Savings,-3.292884397036718,billion_USD,stacked_bar
