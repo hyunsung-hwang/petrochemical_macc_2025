@@ -10,7 +10,7 @@ year,category,value,unit,scenario,figure_type
 2033,Baseline,16.72263794129459,MtCO2_per_yr,shaheen_ncc_elec_rising_decoupled,stacked_area
 2034,Baseline,16.152442882495265,MtCO2_per_yr,shaheen_ncc_elec_rising_decoupled,stacked_area
 2035,Baseline,15.582247823695937,MtCO2_per_yr,shaheen_ncc_elec_rising_decoupled,stacked_area
-2036,Baseline,14.43775558337211,MtCO2_per_yr,shaheen_ncc_elec_rising_decoupled,stacked_area
+2036,Baseline,14.437755583372109,MtCO2_per_yr,shaheen_ncc_elec_rising_decoupled,stacked_area
 2037,Baseline,13.289161220323107,MtCO2_per_yr,shaheen_ncc_elec_rising_decoupled,stacked_area
 2038,Baseline,7.46426942146178,MtCO2_per_yr,shaheen_ncc_elec_rising_decoupled,stacked_area
 2039,Baseline,6.400124726220167,MtCO2_per_yr,shaheen_ncc_elec_rising_decoupled,stacked_area
@@ -66,9 +66,9 @@ year,category,value,unit,scenario,figure_type
 2037,RDH,0.0,MtCO2_per_yr,shaheen_ncc_elec_rising_decoupled,stacked_area
 2038,RDH,4.246964837800309,MtCO2_per_yr,shaheen_ncc_elec_rising_decoupled,stacked_area
 2039,RDH,3.641495655507879,MtCO2_per_yr,shaheen_ncc_elec_rising_decoupled,stacked_area
-2040,RDH,3.033856332777124,MtCO2_per_yr,shaheen_ncc_elec_rising_decoupled,stacked_area
+2040,RDH,3.0338563327771246,MtCO2_per_yr,shaheen_ncc_elec_rising_decoupled,stacked_area
 2041,RDH,2.7322068118500713,MtCO2_per_yr,shaheen_ncc_elec_rising_decoupled,stacked_area
-2042,RDH,2.428387150484694,MtCO2_per_yr,shaheen_ncc_elec_rising_decoupled,stacked_area
+2042,RDH,2.4283871504846943,MtCO2_per_yr,shaheen_ncc_elec_rising_decoupled,stacked_area
 2043,RDH,2.1245674891193165,MtCO2_per_yr,shaheen_ncc_elec_rising_decoupled,stacked_area
 2044,RDH,1.8229179681922638,MtCO2_per_yr,shaheen_ncc_elec_rising_decoupled,stacked_area
 2045,RDH,1.5190983068268864,MtCO2_per_yr,shaheen_ncc_elec_rising_decoupled,stacked_area

@@ -10,7 +10,7 @@ year,category,value,unit,scenario,figure_type
 2033,Yeosu,15.224284854965806,MtCO2_per_yr,shaheen_ncc_h2_flat_coupled,stacked_area
 2034,Yeosu,14.061172938521594,MtCO2_per_yr,shaheen_ncc_h2_flat_coupled,stacked_area
 2035,Yeosu,12.959294909943505,MtCO2_per_yr,shaheen_ncc_h2_flat_coupled,stacked_area
-2036,Yeosu,12.384023158624615,MtCO2_per_yr,shaheen_ncc_h2_flat_coupled,stacked_area
+2036,Yeosu,12.384023158624613,MtCO2_per_yr,shaheen_ncc_h2_flat_coupled,stacked_area
 2037,Yeosu,11.80668950138702,MtCO2_per_yr,shaheen_ncc_h2_flat_coupled,stacked_area
 2038,Yeosu,11.216084481865005,MtCO2_per_yr,shaheen_ncc_h2_flat_coupled,stacked_area
 2039,Yeosu,10.503036319827233,MtCO2_per_yr,shaheen_ncc_h2_flat_coupled,stacked_area
@@ -29,7 +29,7 @@ year,category,value,unit,scenario,figure_type
 2026,Daesan,15.453299246766676,MtCO2_per_yr,shaheen_ncc_h2_flat_coupled,stacked_area
 2027,Daesan,13.979050361012524,MtCO2_per_yr,shaheen_ncc_h2_flat_coupled,stacked_area
 2028,Daesan,13.753975935914342,MtCO2_per_yr,shaheen_ncc_h2_flat_coupled,stacked_area
-2029,Daesan,13.528901510816159,MtCO2_per_yr,shaheen_ncc_h2_flat_coupled,stacked_area
+2029,Daesan,13.528901510816157,MtCO2_per_yr,shaheen_ncc_h2_flat_coupled,stacked_area
 2030,Daesan,11.651409951193994,MtCO2_per_yr,shaheen_ncc_h2_flat_coupled,stacked_area
 2031,Daesan,11.464451731601175,MtCO2_per_yr,shaheen_ncc_h2_flat_coupled,stacked_area
 2032,Daesan,11.277493512008354,MtCO2_per_yr,shaheen_ncc_h2_flat_coupled,stacked_area
@@ -41,7 +41,7 @@ year,category,value,unit,scenario,figure_type
 2038,Daesan,6.363809107695488,MtCO2_per_yr,shaheen_ncc_h2_flat_coupled,stacked_area
 2039,Daesan,5.804613158015574,MtCO2_per_yr,shaheen_ncc_h2_flat_coupled,stacked_area
 2040,Daesan,5.243412921777668,MtCO2_per_yr,shaheen_ncc_h2_flat_coupled,stacked_area
-2041,Daesan,4.964817090216706,MtCO2_per_yr,shaheen_ncc_h2_flat_coupled,stacked_area
+2041,Daesan,4.964817090216707,MtCO2_per_yr,shaheen_ncc_h2_flat_coupled,stacked_area
 2042,Daesan,4.684216972097754,MtCO2_per_yr,shaheen_ncc_h2_flat_coupled,stacked_area
 2043,Daesan,3.6133124415163276,MtCO2_per_yr,shaheen_ncc_h2_flat_coupled,stacked_area
 2044,Daesan,1.7440970765441903,MtCO2_per_yr,shaheen_ncc_h2_flat_coupled,stacked_area
@@ -56,7 +56,7 @@ year,category,value,unit,scenario,figure_type
 2027,Ulsan,17.41325252976241,MtCO2_per_yr,shaheen_ncc_h2_flat_coupled,stacked_area
 2028,Ulsan,16.136721452123613,MtCO2_per_yr,shaheen_ncc_h2_flat_coupled,stacked_area
 2029,Ulsan,15.83551336586895,MtCO2_per_yr,shaheen_ncc_h2_flat_coupled,stacked_area
-2030,Ulsan,15.534305279614287,MtCO2_per_yr,shaheen_ncc_h2_flat_coupled,stacked_area
+2030,Ulsan,15.534305279614285,MtCO2_per_yr,shaheen_ncc_h2_flat_coupled,stacked_area
 2031,Ulsan,15.019100878901773,MtCO2_per_yr,shaheen_ncc_h2_flat_coupled,stacked_area
 2032,Ulsan,14.777296404083225,MtCO2_per_yr,shaheen_ncc_h2_flat_coupled,stacked_area
 2033,Ulsan,14.535491929264682,MtCO2_per_yr,shaheen_ncc_h2_flat_coupled,stacked_area
@@ -66,7 +66,7 @@ year,category,value,unit,scenario,figure_type
 2037,Ulsan,11.048435736054772,MtCO2_per_yr,shaheen_ncc_h2_flat_coupled,stacked_area
 2038,Ulsan,10.521599736120477,MtCO2_per_yr,shaheen_ncc_h2_flat_coupled,stacked_area
 2039,Ulsan,9.80296077196172,MtCO2_per_yr,shaheen_ncc_h2_flat_coupled,stacked_area
-2040,Ulsan,9.081746040906339,MtCO2_per_yr,shaheen_ncc_h2_flat_coupled,stacked_area
+2040,Ulsan,9.081746040906337,MtCO2_per_yr,shaheen_ncc_h2_flat_coupled,stacked_area
 2041,Ulsan,8.723714442275273,MtCO2_per_yr,shaheen_ncc_h2_flat_coupled,stacked_area
 2042,Ulsan,6.617523306149326,MtCO2_per_yr,shaheen_ncc_h2_flat_coupled,stacked_area
 2043,Ulsan,6.2494608326667676,MtCO2_per_yr,shaheen_ncc_h2_flat_coupled,stacked_area
@@ -100,6 +100,6 @@ year,category,value,unit,scenario,figure_type
 2045,Other,0.10639006424200599,MtCO2_per_yr,shaheen_ncc_h2_flat_coupled,stacked_area
 2046,Other,0.08511205139360478,MtCO2_per_yr,shaheen_ncc_h2_flat_coupled,stacked_area
 2047,Other,0.06383403854520359,MtCO2_per_yr,shaheen_ncc_h2_flat_coupled,stacked_area
-2048,Other,0.04255602569680239,MtCO2_per_yr,shaheen_ncc_h2_flat_coupled,stacked_area
+2048,Other,0.0425560256968024,MtCO2_per_yr,shaheen_ncc_h2_flat_coupled,stacked_area
 2049,Other,0.021278012848401195,MtCO2_per_yr,shaheen_ncc_h2_flat_coupled,stacked_area
 2050,Other,0.0,MtCO2_per_yr,shaheen_ncc_h2_flat_coupled,stacked_area

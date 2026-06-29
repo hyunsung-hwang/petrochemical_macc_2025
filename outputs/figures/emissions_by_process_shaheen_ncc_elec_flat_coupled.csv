@@ -2,7 +2,7 @@ year,category,value,unit,scenario,figure_type
 2025,BTX Extraction,0.058244542124387406,MtCO2_per_yr,shaheen_ncc_elec_flat_coupled,stacked_area
 2026,BTX Extraction,0.03448289207141187,MtCO2_per_yr,shaheen_ncc_elec_flat_coupled,stacked_area
 2027,BTX Extraction,0.033049537264812336,MtCO2_per_yr,shaheen_ncc_elec_flat_coupled,stacked_area
-2028,BTX Extraction,0.031616182458212794,MtCO2_per_yr,shaheen_ncc_elec_flat_coupled,stacked_area
+2028,BTX Extraction,0.0316161824582128,MtCO2_per_yr,shaheen_ncc_elec_flat_coupled,stacked_area
 2029,BTX Extraction,0.03018282765161326,MtCO2_per_yr,shaheen_ncc_elec_flat_coupled,stacked_area
 2030,BTX Extraction,0.02874947284501372,MtCO2_per_yr,shaheen_ncc_elec_flat_coupled,stacked_area
 2031,BTX Extraction,0.02760443653399455,MtCO2_per_yr,shaheen_ncc_elec_flat_coupled,stacked_area
@@ -41,7 +41,7 @@ year,category,value,unit,scenario,figure_type
 2038,BTX Plant,4.24740879380856,MtCO2_per_yr,shaheen_ncc_elec_flat_coupled,stacked_area
 2039,BTX Plant,3.6418763188608905,MtCO2_per_yr,shaheen_ncc_elec_flat_coupled,stacked_area
 2040,BTX Plant,3.0341734766195025,MtCO2_per_yr,shaheen_ncc_elec_flat_coupled,stacked_area
-2041,BTX Plant,2.7324924227925274,MtCO2_per_yr,shaheen_ncc_elec_flat_coupled,stacked_area
+2041,BTX Plant,2.732492422792528,MtCO2_per_yr,shaheen_ncc_elec_flat_coupled,stacked_area
 2042,BTX Plant,2.4286410016718336,MtCO2_per_yr,shaheen_ncc_elec_flat_coupled,stacked_area
 2043,BTX Plant,2.124789580551139,MtCO2_per_yr,shaheen_ncc_elec_flat_coupled,stacked_area
 2044,BTX Plant,1.8231085267241647,MtCO2_per_yr,shaheen_ncc_elec_flat_coupled,stacked_area
@@ -109,7 +109,7 @@ year,category,value,unit,scenario,figure_type
 2028,Polymerization,0.38110072215093116,MtCO2_per_yr,shaheen_ncc_elec_flat_coupled,stacked_area
 2029,Polymerization,0.3638230969153235,MtCO2_per_yr,shaheen_ncc_elec_flat_coupled,stacked_area
 2030,Polymerization,0.3465454716797159,MtCO2_per_yr,shaheen_ncc_elec_flat_coupled,stacked_area
-2031,Polymerization,0.3327432308305811,MtCO2_per_yr,shaheen_ncc_elec_flat_coupled,stacked_area
+2031,Polymerization,0.33274323083058116,MtCO2_per_yr,shaheen_ncc_elec_flat_coupled,stacked_area
 2032,Polymerization,0.3189409899814463,MtCO2_per_yr,shaheen_ncc_elec_flat_coupled,stacked_area
 2033,Polymerization,0.3051387491323115,MtCO2_per_yr,shaheen_ncc_elec_flat_coupled,stacked_area
 2034,Polymerization,0.2913365082831767,MtCO2_per_yr,shaheen_ncc_elec_flat_coupled,stacked_area
@@ -122,14 +122,14 @@ year,category,value,unit,scenario,figure_type
 2041,Polymerization,0.1250145412162643,MtCO2_per_yr,shaheen_ncc_elec_flat_coupled,stacked_area
 2042,Polymerization,0.11111300367037309,MtCO2_per_yr,shaheen_ncc_elec_flat_coupled,stacked_area
 2043,Polymerization,0.09721146612448194,MtCO2_per_yr,shaheen_ncc_elec_flat_coupled,stacked_area
-2044,Polymerization,0.0834092252753471,MtCO2_per_yr,shaheen_ncc_elec_flat_coupled,stacked_area
+2044,Polymerization,0.08340922527534711,MtCO2_per_yr,shaheen_ncc_elec_flat_coupled,stacked_area
 2045,Polymerization,0.06950768772945592,MtCO2_per_yr,shaheen_ncc_elec_flat_coupled,stacked_area
 2046,Polymerization,0.05560615018356473,MtCO2_per_yr,shaheen_ncc_elec_flat_coupled,stacked_area
 2047,Polymerization,0.04170461263767355,MtCO2_per_yr,shaheen_ncc_elec_flat_coupled,stacked_area
 2048,Polymerization,0.027803075091782366,MtCO2_per_yr,shaheen_ncc_elec_flat_coupled,stacked_area
 2049,Polymerization,0.013901537545891183,MtCO2_per_yr,shaheen_ncc_elec_flat_coupled,stacked_area
 2050,Polymerization,0.0,MtCO2_per_yr,shaheen_ncc_elec_flat_coupled,stacked_area
-2025,Utility,14.08323653256749,MtCO2_per_yr,shaheen_ncc_elec_flat_coupled,stacked_area
+2025,Utility,14.083236532567492,MtCO2_per_yr,shaheen_ncc_elec_flat_coupled,stacked_area
 2026,Utility,15.549378978010697,MtCO2_per_yr,shaheen_ncc_elec_flat_coupled,stacked_area
 2027,Utility,14.903035943568781,MtCO2_per_yr,shaheen_ncc_elec_flat_coupled,stacked_area
 2028,Utility,14.256692909126864,MtCO2_per_yr,shaheen_ncc_elec_flat_coupled,stacked_area
